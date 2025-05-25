@@ -4,3 +4,4 @@ openai
 python-multipart
 aiofiles
 jinja2
+flask
